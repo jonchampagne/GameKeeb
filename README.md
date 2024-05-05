@@ -124,4 +124,5 @@ works. Anyway...
    paperclip into the tiny hole in the bottom of the case.
 
 2. The Pico should show up as a flash drive on your PC. Drop the firmware .uf2
-   file onto it and it will reprogram itself automatically.
+   file onto it and it will reprogram itself automatically. You can find the
+   firmware for my fork in the repo [here](https://github.com/JonnyHaystack/GameKeeb-firmware).
